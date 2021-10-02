@@ -1,4 +1,4 @@
-package edu.pkch.testlearn.customization;
+package edu.pkch.pkch.testlearn.customization;
 
 import lombok.Getter;
 import org.javaunit.autoparams.AutoSource;

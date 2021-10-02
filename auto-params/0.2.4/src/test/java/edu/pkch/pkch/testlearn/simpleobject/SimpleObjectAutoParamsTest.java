@@ -1,4 +1,4 @@
-package edu.pkch.testlearn.simpleobject;
+package edu.pkch.pkch.testlearn.simpleobject;
 
 import org.javaunit.autoparams.AutoSource;
 import org.junit.jupiter.params.ParameterizedTest;

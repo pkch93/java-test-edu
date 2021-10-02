@@ -1,7 +1,4 @@
-ext.junitJupiterVersion = '5.7.0'
-ext.assertjVersion = '3.18.1'
 ext.autoParamsVersion = '0.2.4'
-ext.lombokVersion = '1.18.20'
 
 dependencies {
     testImplementation "io.github.javaunit:autoparams:${autoParamsVersion}"

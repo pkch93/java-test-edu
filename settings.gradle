@@ -1,5 +1,5 @@
 rootProject.name = 'java-test-edu'
 
 include 'auto-params:0.2.4'
-
+include 'mockito'
 

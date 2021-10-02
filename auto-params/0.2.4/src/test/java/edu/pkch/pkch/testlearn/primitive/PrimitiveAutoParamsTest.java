@@ -1,4 +1,4 @@
-package edu.pkch.testlearn.primitive;
+package edu.pkch.pkch.testlearn.primitive;
 
 import org.javaunit.autoparams.AutoSource;
 import org.javaunit.autoparams.Fixed;
